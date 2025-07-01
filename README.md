@@ -42,7 +42,7 @@ Go to Settings > Pages on GitHub.
 Set the source to main branch and /root directory.
 
 Your site will be live at:
-https://your-username.github.io/KTRH-Website/
+https://ktrh-2e8fa4.netlify.app/
 
 ##📩 Contact
 For any inquiries or feedback, feel free to open an issue or reach out directly.
